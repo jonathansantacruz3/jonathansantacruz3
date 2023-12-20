@@ -8,8 +8,8 @@
   - [Post-Installation Configuration](https://github.com/jonathansantacruz3/post-install-config)
   - [Ticket Lifecycle Examples](https://github.com/jonathansantacruz3/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/jonathansantacruz3/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jonathansantacruz3/azure-network-protocols)
+  - [Implementation of on-premise Active Directory within Azure Virtal Machines](https://github.com/jonathansantacruz3/configure-ad)
+  - [Analyzing Network Protocols utilizing Wireshark, Network Security Groups, VMs, and Remote Desktop](https://github.com/jonathansantacruz3/azure-network-protocols)
 
 <h2>Connect with me:</h2>
 
