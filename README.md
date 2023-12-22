@@ -7,6 +7,7 @@
   - [Prerequisites and Installation](https://github.com/jonathansantacruz3/osticket-prereqs)
   - [Post-Installation Configuration](https://github.com/jonathansantacruz3/post-install-config)
   - [Ticket Lifecycle Examples](https://github.com/jonathansantacruz3/ticket-lifecycle)
+  - {Email (Gmail) Configuration](https://github.com/jonathansantacruz3/email-config)
 - <b>Microsoft Azure</b>
   - [Implementation of on-premise Active Directory within Azure Virtal Machines](https://github.com/jonathansantacruz3/configure-ad)
   - [Analyzing Network Protocols utilizing Wireshark, Network Security Groups, VMs, and Remote Desktop](https://github.com/jonathansantacruz3/azure-network-protocols)
