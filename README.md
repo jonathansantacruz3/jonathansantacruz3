@@ -17,9 +17,10 @@
   - [How to set up Windows Server 2022 on a Hyper-V Virtual Machine](https://github.com/jonathansantacruz3/How-to-set-up-Windows-Server-2022-on-a-Hyper-V-virtual-machine)
   - [How to Deploy a Standalone DNS on Windows Server 2022](https://github.com/jonathansantacruz3/How-to-Deploy-a-Standalone-DNS-on-Windows-Server-2022)
   
-- <b>DNS Records</b>
+- <b>DNS (Domain Name System)</b>
+  - [How to Deploy a Standalone DNS on Windows Server 2022](https://github.com/jonathansantacruz3/How-to-Deploy-a-Standalone-DNS-on-Windows-Server-2022)
   - [Set Up MX Records](https://github.com/jonathansantacruz3/Set_up_MX_records)
-  - [DNS Transfers Between Primary and Secondary Zones on Windows Server 2022](https://github.com/jonathansantacruz3/How-to-set-up-Windows-Server-2022-on-a-Hyper-V-virtual-machine)
+  - [DNS Transfers Between Primary and Secondary Zones on Windows Server 2022](https://github.com/jonathansantacruz3/DNS-Transfers-Between-Primary-and-Secondary-Zones-on-Windows-Server-2022)
 
 
 <h2>Connect with me:</h2>
