@@ -21,6 +21,9 @@
   - [Set Up MX Records](https://github.com/jonathansantacruz3/Set_up_MX_records)
   - [DNS Transfers Between Primary and Secondary Zones on Windows Server 2022](https://github.com/jonathansantacruz3/DNS-Transfers-Between-Primary-and-Secondary-Zones-on-Windows-Server-2022)
 
+- <b>IT Support SKills</b>
+  - [How to Change File Permissions on Windows 11](https://github.com/jonathansantacruz3/How-to-Change-File-Permissions-on-Windows-11)
+
 
 <h2>Connect with me:</h2>
 
