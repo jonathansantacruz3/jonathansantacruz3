@@ -1,4 +1,4 @@
-<h1>Hello, I'm Jonathan, an <a href="https://www.linkedin.com/in/jt-santacruz/">IT Professional</a></h1>
+<h1>Hello, I'm Jonathan, an <a href="https://techsavvyscruz.com/">IT Professional</a></h1>
 
 <h2>Information Technology Projects:</h2>
 
