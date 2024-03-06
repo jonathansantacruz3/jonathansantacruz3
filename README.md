@@ -15,7 +15,6 @@
 - <b>Microsoft Hyper-V</b>
   - [How to Install Hyper-V on Windows 11 Home](https://github.com/jonathansantacruz3/HyperV_on_Windows11_Home)
   - [How to set up Windows Server 2022 on a Hyper-V Virtual Machine](https://github.com/jonathansantacruz3/How-to-set-up-Windows-Server-2022-on-a-Hyper-V-virtual-machine)
-  - [How to Deploy a Standalone DNS on Windows Server 2022](https://github.com/jonathansantacruz3/How-to-Deploy-a-Standalone-DNS-on-Windows-Server-2022)
   
 - <b>DNS (Domain Name System)</b>
   - [How to Deploy a Standalone DNS on Windows Server 2022](https://github.com/jonathansantacruz3/How-to-Deploy-a-Standalone-DNS-on-Windows-Server-2022)
