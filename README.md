@@ -1,16 +1,30 @@
-### Hi there 👋
+<h1>Hello, I'm Jonathan, an <a href="https://www.linkedin.com/in/jt-santacruz/">IT Professional</a></h1>
 
-<!--
-**jonathansantacruz3/jonathansantacruz3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Information Technology Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/jonathansantacruz3/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/jonathansantacruz3/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/jonathansantacruz3/ticket-lifecycle)
+  - [osTicket: Email Configuration](https://github.com/jonathansantacruz3/email-config)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <b>Microsoft Azure</b>
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/jonathansantacruz3/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jonathansantacruz3/azure-network-protocols)
+
+- <b>Microsoft Hyper-V</b>
+  - [How to Install Hyper-V on Windows 11 Home](https://github.com/jonathansantacruz3/HyperV_on_Windows11_Home)
+  - [How to set up Windows Server 2022 on a Hyper-V Virtual Machine](https://github.com/jonathansantacruz3/How-to-set-up-Windows-Server-2022-on-a-Hyper-V-virtual-machine)
+  - [How to Deploy a Standalone DNS on Windows Server 2022](https://github.com/jonathansantacruz3/How-to-Deploy-a-Standalone-DNS-on-Windows-Server-2022)
+  
+- <b>DNS Records</b>
+  - [Set Up MX Records](https://github.com/jonathansantacruz3/Set_up_MX_records)
+  - [DNS Transfers Between Primary and Secondary Zones on Windows Server 2022](https://github.com/jonathansantacruz3/How-to-set-up-Windows-Server-2022-on-a-Hyper-V-virtual-machine)
+
+
+<h2>Connect with me:</h2>
+
+[<img align="left" alt="Jonathan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[tech savvy scruz]: https://techsavvyscruz.com/
+[linkedin]: https://www.linkedin.com/in/jt-santacruz/
