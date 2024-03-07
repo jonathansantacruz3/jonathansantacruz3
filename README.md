@@ -24,6 +24,10 @@
 - <b>IT Support SKills</b>
   - [How to Change File Permissions on Windows 11](https://github.com/jonathansantacruz3/How-to-Change-File-Permissions-on-Windows-11)
 
+- <b>LAN Management Basics</b>
+  - [Setting Up DHCP on Windows Server 2022](https://github.com/jonathansantacruz3/Setting-Up-DHCP-on-Windows-Server-2022)
+
+
 
 <h2>Connect with me:</h2>
 
